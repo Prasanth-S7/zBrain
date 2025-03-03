@@ -40,8 +40,11 @@ npm install
 cd backend
 yarn install
 ```
+3. Create a .env file in the backend directory and add the variables which are given in the .env.example file
 
-3. Start the development server:
+4. Create a .env file in the client directory and add the variables which are given in the .env.example file
+
+5. Start the development server:
 ```bash
 npm run dev
 # or
